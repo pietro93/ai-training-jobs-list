@@ -249,7 +249,7 @@ A curated, live-updating list of AI training roles, RLHF specialist positions, a
 
 This repository mirrors the latest AI training and RLHF opportunities from our main job board at **[aitrainer.work](https://aitrainer.work)**.
 
-- **Last Updated**: 2026-06-17T12:50:57.632Z
+- **Last Updated**: 2026-06-17T12:57:07.944Z
 - **Total Active Jobs**: 1596
 - **Platforms**: sme_careers, micro1, mercor, alignerr, handshake, mindrift, outlier
 
